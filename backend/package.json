@@ -1,0 +1,14 @@
+
+{
+  "name": "creative-showcase-backend",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "mongoose": "^8.0.0",
+    "dotenv": "^16.4.5"
+  }
+}
