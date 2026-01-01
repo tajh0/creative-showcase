@@ -107,7 +107,7 @@ const Layout: React.FC<LayoutProps> = ({ children, auth, setAuth }) => {
 
       <footer className="bg-slate-950 border-t border-slate-900 py-8">
         <div className="max-w-7xl mx-auto px-4 text-center text-slate-500 text-sm">
-          <p>© {new Date().getFullYear()} Creative Showcase. Powered by React.</p>
+          <p>© {new Date().getFullYear()} Creative Showcase by Naimul.</p>
         </div>
       </footer>
     </div>
