@@ -1,18 +1,20 @@
 
 # Creative Showcase Web App
 
-A modern **React + Vite** based creative portfolio web application.
-
-This project currently runs as a **frontend-only demo**, using **dynamic dummy images**, and is structured to easily scale into a full-stack application.
-
+A modern **React + Vite** based creative web application.
 ---
 
 ## Features
 
 - Built with **React + TypeScript + Vite**
+- Create Profile
+- Upload Images
 - Masonry-style image grid
 - Dynamic featured images (random on every refresh)
 - Modular component architecture
+
+## Netlify link
+https://naimulscreativeshowcase.netlify.app/
 
 ## 📁 Project Structure
 
@@ -28,7 +30,12 @@ creative-showcase/
 ├── App.tsx
 └── README.md
 ```
-
+### Run the Project
+```bash
+cd creative-showcase
+npm install
+npm run dev
+```
 ---
 
 ### Start Backend
